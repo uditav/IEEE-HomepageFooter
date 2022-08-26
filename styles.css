@@ -1,0 +1,72 @@
+footer{
+  font-family: 'Poppins';
+}
+
+.heading{
+  font-weight: 700;
+  padding-bottom: 7%;
+  color:black;
+}
+
+.container-fluid{
+  padding: 5% 14%;
+  margin: 0%;
+}
+
+.about{
+  font-weight: 500;
+  color: #969AA7;
+}
+
+i{
+  margin-right:5px;
+  margin-top:5%;
+  color: #0083FF;
+}
+
+.copyright{
+  color: #969AA7;
+  text-align: center;
+  
+}
+
+.fields{
+ 
+  margin-bottom: 2%;
+  border-radius: 10px;
+  width:20rem;
+  border: 2px solid #b1d3f3;
+}
+
+
+form{
+  padding-top:0%;
+  padding-left: 0%;
+  margin-left: 0%;
+}
+
+textarea {
+  
+  padding-bottom: 6px ;
+  resize: none;
+}
+
+
+hr{
+  color:#0083ff;
+  border-top: 2px solid ;
+  width: 70%; 
+  margin-right: auto;
+  margin-left:auto ;
+}
+
+.section{
+  padding-left: 10%;
+}
+
+.submit{
+  border-radius:50px;
+}
+
+
+
